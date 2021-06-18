@@ -35,7 +35,7 @@ This program contain a launch.json file which have args set to "-a DOG -nf", her
 
 
 
-PS: If you don't specify a filter in the arguments the anagram words will be automatically filtered to know English words.
+PS: If you don't specify a filter in the arguments the anagram words will be automatically filtered to known English words.
 
 
 
